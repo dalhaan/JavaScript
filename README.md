@@ -30,8 +30,8 @@ File structure
       └─ project
          └─ src
             └─ components
-               └─ MaskedInput
-                  └─ index.js
+               ├─ MaskedInput
+               │  └─ index.js
                └─ Flow
                   └─ SignUp
                      └─ index.js
